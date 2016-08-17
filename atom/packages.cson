@@ -1,0 +1,14 @@
+packages: [
+  "atom-autocomplete-php"
+  "autoclose-html"
+  "linter"
+  "minimap-linter"
+  "split-diff"
+  "linter-php"
+  "minimap-linter"
+]
+
+themes: [
+  "atom-material-syntax"
+  "atom-material-ui"
+]

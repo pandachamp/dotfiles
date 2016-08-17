@@ -1,0 +1,23 @@
+"*":
+  core:
+    themes: [
+      "one-dark-ui"
+      "atom-material-syntax"
+    ]
+  editor:
+    invisibles: {}
+    scrollPastEnd: true
+    showIndentGuide: true
+    showInvisibles: true
+    softTabs: false
+    softWrap: true
+    tabLength: 4
+    tabType: "soft"
+  "exception-reporting":
+    userId: "8f199c4a-2f21-cffc-1452-875039f15a9a"
+  minimap:
+    plugins:
+      linter: true
+      linterDecorationsZIndex: 0
+  welcome:
+    showOnStartup: false
